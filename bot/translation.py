@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @v_spot
+# (c) @DIAGO_X
 
 class Translation(object):
     
