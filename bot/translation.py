@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i> How are you 🤷‍♂
 
- ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><i><a href="https://t.me/CL_LOKAM">🔎[ᴄʟ] ᴍᴏᴠɪᴇs ᴘᴇᴅɪᴀ™</a></i></b>
+ ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b>href="https://t.me/CL_LOKAM">🔎[ᴄʟ] ᴍᴏᴠɪᴇs ᴘᴇᴅɪᴀ™</b>
 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
 
 🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Issacnewton4
