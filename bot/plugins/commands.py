@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join', url="https://t.me/film_zone_fz"
+                                    '⚠️JOIN', url="https://t.me/film_zone_group"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '⚠️JOIN', url="https://t.me/Film_zone_group"
                                 )
                         ]
                     ]
