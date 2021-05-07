@@ -7,17 +7,17 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i> How are you 🤷‍♂
 
- ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><i><a href="https://t.me/Film_zone_group">Film_Zone™</a></i></b>
+ ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><i><a href="https://t.me/CL_LOKAM">Film_Zone™</a></i></b>
 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
 
-🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @DIAGO_X
+🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Issacnewton4
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i>How To Use Me!?</i></b>
 <i>
-⭕ <b>Add Me To Any Group And Make Me Admin</b>
-⭕ <b>Add Me To Your Desired Channel</b>
+ <b>Add Me To Any Group And Make Me Admin</b>
+ <b>Add Me To Your Desired Channel</b>
 </i>
 <b>Bot Commands (Works Only In Groups) :</b>
     🔷 <code>/add chat_id</code>
@@ -39,10 +39,10 @@ class Translation(object):
             
             🔷 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@FISCO_LAB
+
 """
     
-    ABOUT_TEXT = """<b>💠 My Name</b> : <code> OMEGA </code>
+    ABOUT_TEXT = """<b>💠 My Name</b> : <code> ALIS </code>
     
 <b>💠 Creator</b> : <b><i><a href="https://t.me/DIAGO_X">DIAGI</a></i></b>
 
